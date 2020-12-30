@@ -234,6 +234,9 @@ footer p {
 	font-size: 0.7rem;
 	margin-bottom: 0px;
 }
+p a {
+	color: var(--letras);
+}
 .botao {
 	/*display: none;*/
 }
